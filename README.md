@@ -18,7 +18,6 @@ Cross-platform notes app with auth, CRUD, pin, undo, search, and offline cache.
 
 ## 🔧 Setup
 ```bash
-cp .env.example .env   # kendi değerlerini yaz
 flutter pub get
 flutter run
 /auth` (AuthGate/AuthPage)
